@@ -1,0 +1,4 @@
+(executable
+ (public_name poseidon_ocaml)
+ (name main)
+ (libraries poseidon_ocaml))
