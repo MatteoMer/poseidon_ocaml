@@ -1,0 +1,6 @@
+(library
+ (public_name poseidon_ocaml)
+ (name poseidon_ocaml)
+ (libraries ff)
+ )
+  
